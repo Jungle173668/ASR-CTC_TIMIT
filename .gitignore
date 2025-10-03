@@ -1,0 +1,6 @@
+checkpoints/
+.ipynb_checkpoints
+fbank/**/*.pt
+logs/
+*.png
+trainer3-1.py
